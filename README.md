@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Srinidhi9113
-- 👀 I’m interested in game development, app development and web development
-- 🌱 I’m currently learning web development
+
 
 <!---
 Srinidhi9113/Srinidhi9113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
